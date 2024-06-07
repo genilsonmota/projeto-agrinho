@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .cabecalho {
+    background-color: #1d51a3;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    }
+    .cabecalho-imagem{
+    width: 15%;
+    }
+    .cabecalho-lista-item{
+    display: inline-bloch;
+    margin: 0 16px;
+    font-size: 20px;
+    }
+    .milho-imagem{
+        width: 25%;
+    }
+    .milho{
+        background-imagem: linear-gradient(#424E61,#16CFF8 );
+        color: white;
+        displax:flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px; 
+    }
+    .milho-div-conteudo{width:35%;
+    }
+    .milho-titulo {
+        padding: 24px 0; 
+    }
+    
